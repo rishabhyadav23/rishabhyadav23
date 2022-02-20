@@ -8,9 +8,9 @@
 
 ### Connect With Me :
 <p align="left">
-<a href="https://www.facebook.com/rishu.yadac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rishabh-yadav-b68986204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/rishu.yadav23?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rishu.yadac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" title="Facebook"/></a>
+<a href="https://www.linkedin.com/in/rishabh-yadav-b68986204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" title="LinkedIn"/></a>
+<a href="https://instagram.com/rishu.yadav23?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" title="Instagram" /></a>
 </p>
 
 ### ------------------------------------------------------------------------------
