@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Rishabh Yadav
-- 🌱 I’m currently learning Web Development and Python.
+- 🌱 I’m currently learning Web Development and Java.
 
 ### -----------------------------------------------------------------------------
 
@@ -23,7 +23,6 @@
   <img alt="Html5" title="HTML5" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/html5.svg">
   <img alt="CSS" title="CSS" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/css.svg">
   <img alt="Javascript" title="JavaScript" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/javascript.svg">
-  <img alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/bootstrap.svg">
   <img alt="visual studio code" title="VS Code" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/vs-code.svg">
   <img alt="Java" title="Java" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/java.svg">
   <img alt="Eclipse" title="Eclipse" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/eclipse.svg">
