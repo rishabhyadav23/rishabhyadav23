@@ -1,5 +1,5 @@
 
-- <h1 align="center" font-family="Cooper Black">👋 Hi, I’m Rishabh Yadav</h1>
+- <h1 align="center"  font-family="Cooper Black">👋 Hi, I’m Rishabh Yadav</h1>
 - <h3>🌱 I’m currently learning Web Development and Java.</h3>
 
 ### -----------------------------------------------------------------------------
