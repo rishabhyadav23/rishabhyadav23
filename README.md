@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m Rishabh Yadav
-- 🌱 I’m currently learning Web Development and Java.
+- <h1>👋 Hi, I’m Rishabh Yadav</h1>
+- <h1>🌱 I’m currently learning Web Development and Java.</h1>
 
 ### -----------------------------------------------------------------------------
 
