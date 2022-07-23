@@ -27,6 +27,7 @@
   <img alt="visual studio code" title="VS Code" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/vs-code.svg">
   <img alt="Java" title="Java" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/java.svg">
   <img alt="Eclipse" title="Eclipse" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/eclipse.svg">
+  <img alt="SQL" title="SQL" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/sql.svg">
 </p>
 
 ### ------------------------------------------------------------------------------
