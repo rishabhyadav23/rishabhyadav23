@@ -18,16 +18,16 @@
 
 ### Languages and Tools
 <p align="left">
-  <img alt="C" title="C" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/c.svg">
-  <img alt="CPP" title="CPP" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/cpp.svg">
-  <img alt="Python" title="Python" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/python.svg">
-  <img alt="Html5" title="HTML5" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/html5.svg">
-  <img alt="CSS" title="CSS" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/css.svg">
-  <img alt="Javascript" title="JavaScript" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/javascript.svg">
-  <img alt="visual studio code" title="VS Code" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/vs-code.svg">
-  <img alt="Java" title="Java" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/java.svg">
-  <img alt="Eclipse" title="Eclipse" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/eclipse.svg">
-  <img alt="MySQL" title="MySQL" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="C" title="C" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/c.svg">
+  <img alt="CPP" title="CPP" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/cpp.svg">
+  <img alt="Python" title="Python" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/python.svg">
+  <img alt="Html5" title="HTML5" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/html5.svg">
+  <img alt="CSS" title="CSS" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/css.svg">
+  <img alt="Javascript" title="JavaScript" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/javascript.svg">
+  <img alt="visual studio code" title="VS Code" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/vs-code.svg">
+  <img alt="Java" title="Java" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/java.svg">
+  <img alt="Eclipse" title="Eclipse" height="40" width="40" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/eclipse.svg">
+  <img alt="MySQL" title="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </p>
 
 ### ------------------------------------------------------------------------------
