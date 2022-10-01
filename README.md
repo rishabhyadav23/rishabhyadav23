@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">I am a CS student from India.</h3>
-
+<hr>
 
 - 🌱 I’m currently learning **DSA and Flutter.**
 
-- 🌱 I have JAVA, Flutter and SQL.**
+- 🌱 I have JAVA, Flutter and SQL.
 
 - 👯 I’m looking to collaborate on **Open source Projects.**
 
