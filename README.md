@@ -2,7 +2,7 @@
 <h4 align="center">I am a CS student from India.</h4></div>
 <hr>
 
-### About Me
+### About Me:
 - 🌱 I’m currently learning **DSA and Flutter.**
 
 - 🌱 I have JAVA, Flutter and SQL.
