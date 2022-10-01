@@ -4,7 +4,7 @@
 
 <h5 align="center">- 🌱 I’m currently learning Dart and Flutter.</h5>
 
-<h5 align="center">- 📫 How to reach me <a href="https://linkedin.com/in/rishabh-yadav-b68986204"></a></h5>
+<h5 align="center">- 📫 How to reach me <a href="https://linkedin.com/in/rishabh-yadav-b68986204" alt="LinkedIn"></a></h5>
 
 ### ------------------------------------------------------------------------------
 
