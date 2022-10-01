@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">I am a CS student from India.</h3>
+<div><h1 align="center">Hi 👋, I'm Rishabh</h1>
+<h4 align="center">I am a CS student from India.</h4></div>
 <hr>
 
 - 🌱 I’m currently learning **DSA and Flutter.**
