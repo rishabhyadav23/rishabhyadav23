@@ -5,7 +5,7 @@
 ### About Me:
 - 🌱 I’m currently learning **DSA and Flutter.**
 
-- 🌱 I have JAVA, Flutter and SQL.
+- 🌱 I have good knowladge of JAVA, Flutter and SQL.
 
 - 👯 I’m looking to collaborate on **Open source Projects.**
 
