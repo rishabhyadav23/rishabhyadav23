@@ -1,10 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">I am a CS student from India.</h3>
 
-<h5 align="center">- 🌱 I’m currently learning Dart and Flutter.</h5>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhyadav23" alt="rishabhyadav23" /></a> </p>
 
-<h5 align="center">- 📫 How to reach me <a href="https://linkedin.com/in/rishabh-yadav-b68986204" alt="LinkedIn"></a></h5>
+- 🌱 I’m currently learning **DSA and Flutter.**
+
+- 🌱 I have JAVA, Flutter and SQL.**
+
+- 👯 I’m looking to collaborate on **Open source Projects.**
+
+- 📫 How to reach me **rishabhyadav2790019@gmail.com**
 
 ### ------------------------------------------------------------------------------
 
