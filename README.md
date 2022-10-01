@@ -2,21 +2,16 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">I am a CS student from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhyadav23" alt="rishabhyadav23" /></a> </p>
-
 - 🌱 I’m currently learning **Dart and Flutter.**
 
 - 📫 How to reach me **rishabh-yadav-b68986204**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhyadav23" alt="rishabhyadav23" /></a> </p>
 
-### -----------------------------------------------------------------------------
 
 <p><img src="https://komarev.com/ghpvc/?username=rishabyadav23" /></p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
