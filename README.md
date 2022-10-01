@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">I am a CS student from India.</h3>
 
-<h5 align="center">- 🌱 I’m currently learning **Dart and Flutter.</h5>
+<h5 align="center">- 🌱 I’m currently learning Dart and Flutter.</h5>
 
-<h5 align="center">- 📫 How to reach me **rishabh-yadav-b68986204</h5>
+<h5 align="center">- 📫 How to reach me rishabhyadav2790019@gmail.com</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhyadav23" alt="rishabhyadav23" /></a> </p>
 
