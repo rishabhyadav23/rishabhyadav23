@@ -3,7 +3,7 @@
 <hr>
 
 ### About Me:
-- 🌱 I’m currently learning **DSA and Flutter.**
+- 🌱 I’m currently learning **DSA and Spring.**
 
 - 🌱 I have good knowladge of JAVA and Android development.
 
