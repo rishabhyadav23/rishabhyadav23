@@ -1,5 +1,6 @@
-<div><h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h4 align="center">Android Developer from India</h4></div>
+
+<h1 align="center">Hi 👋, I'm Rishabh</h1>
+<h4 align="center">Android Developer from India</h4>
 <hr>
 
 ### About Me:
@@ -11,24 +12,9 @@
 
 - 📫 How to reach me **rishabhyadav2790019@gmail.com**
 
-### ------------------------------------------------------------------------------
+<hr>
 
-
-<p><img src="https://komarev.com/ghpvc/?username=rishabyadav23" /></p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishabh-yadav-b68986204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-yadav-b68986204" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rishu.yadac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rishu.yadac" height="30" width="40" /></a>
-<a href="https://instagram.com/rishu.yadav23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishu.yadav23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rishabhyadav2791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rishabhyadav2791" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishabhyadav2790019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabhyadav2790019" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishu_yadav23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishu_yadav23" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+###Languages and Tools:
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -46,13 +32,26 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
+  
+  <p align="center"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhyadav23&show_icons=true&theme=dark" alt="rishabhyadav23 Top Languages"</p>
 
-### ------------------------------------------------------------------------------
+<hr>
 
-[![@rishabh23's Holopin board](https://holopin.me/rishabh23)](https://holopin.io/@rishabh23)
+### My GitHub Stats:
+<p align="center"><img align="centre" src="https://github-readme-stats.vercel.app/api?username=rishabhyadav23&show_icons=true&theme=dark" alt="rishabhyadav23 GitHub Stats" /></p>
 
-### My GitHub Stats
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=rishabhyadav23&show_icons=true&theme=dark" alt="rishabhyadav23 GitHub Stats" /></p>
-<p><img align="centre" src="http://github-readme-streak-stats.herokuapp.com?user=rishabhyadav23&theme=dark" alt="rishabhyadav23 Streak" /></p>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhyadav23&show_icons=true&theme=dark" alt="rishabhyadav23 Top Languages"</p>
+<p align="center"><img align="centre" src="http://github-readme-streak-stats.herokuapp.com?user=rishabhyadav23&theme=dark" alt="rishabhyadav23 Streak" /></p>
 
+<hr>
+###Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/rishabh-yadav-b68986204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-yadav-b68986204" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rishu.yadac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rishu.yadac" height="30" width="40" /></a>
+<a href="https://instagram.com/rishu.yadav23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishu.yadav23" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@rishabhyadav2791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rishabhyadav2791" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rishabhyadav2790019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabhyadav2790019" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rishu_yadav23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishu_yadav23" height="30" width="40" /></a>
+</p>
+
+<h3>Profile Views: </h3>
+<p><img src="https://komarev.com/ghpvc/?username=rishabyadav23" /></p>
